@@ -1,0 +1,183 @@
+{
+  "name": "Roberto Segarra",
+  "label": "Senior Data Analyst",
+  "image_path": "portfolio_media/Head_shot.jpg",
+  "contact": {
+    "email": "RobertSegarra21@gmail.com.com",
+    "phone": "(714) 875-0531",
+    "location": "Tustin, Ca., United States"
+  },
+  "summary": "Aspiring data scientist passionate about using data to drive positive changes in my community. Curious, analytical, and always learning—whether it's exploring new datasets, baking bread, or going on adventures with my wife Kati and our beagle, Fig.",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rsegarra21",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/Rsegarra1",
+      "svg_path": "img/github.svg"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/rob_kabobb",
+      "svg_path": "img/instagram.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Automobile Club of Southern California (AAA)",
+      "position": "Senior Data Analyst",
+      "url": "https://www.ace.aaa.com",
+      "start_date": "07/01/2024",
+      "end_date": "Present",
+      "summary": "Automating reporting processes, integrating complex data systems, and building insightful dashboards to support underwriting and operational efficiency. Proficient in Python, SQL, Tableau, and VBA, with a proven track record of reducing manual workloads, enhancing data accuracy, and driving data-informed decision-making across cross-functional teams.",
+      "highlights": [
+        "Tasked with overseeing intergration of auditing datascources into a seamless reporting dashboard",
+        "Created an automated random selection of audits; impacting Sales agent compensation",
+        "Created various automations using python to eliminate work-flow inefficiencies"
+      ]
+    },
+    {
+      "company": "Automobile Club of Southern California (AAA)",
+      "position": "Data Analyst",
+      "url": "https://www.ace.aaa.com",
+      "start_date": "01/01/2010",
+      "end_date": "07/01/2020",
+      "summary": "Provides support for the Underwriting department, data requests, and automation",
+      "highlights": [
+        "Created over 300 custom letters for the in-house letter generation program, ensuring consistency across business units.",
+        "Tasked with extracting data from multiple sources and systems to generate actionable insights."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Regression",
+      "summary": "First project - pending",
+      "url": "https://sample.com",
+      "highlights": [
+        "First Highlight of Project One",
+        "Second Highlight of Project One",
+        "Third Highlight of Project One"
+      ],
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=1",
+          "caption": "Image Caption 1"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=2",
+          "caption": "Image Caption 2"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=3",
+          "caption": "Image Caption 3"
+        }
+      ]
+    },
+    {
+      "title": "Random Forest",
+      "summary": "Second Project - Pending",
+      "url": "https://sample.com",
+      "highlights": [
+        "First Highlight of Project Two",
+        "Second Highlight of Project Two",
+        "Third Highlight of Project Two"
+      ],
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=4",
+          "caption": "Image Caption 4"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=5",
+          "caption": "Image Caption 5"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=6",
+          "caption": "Image Caption 6"
+        }
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "California State University - Fullerton",
+      "location": "Fullerton, CA. United States",
+      "url": "https://www.fullerton.edu",
+      "degrees": ["Master of Business Administration: Business Analystics"],
+      "graduation_date": "12/01/2024"
+    },
+    {
+      "institution": "California State University - Fullerton",
+      "location": "Fullerton, CA. United States",
+      "url": "https://www.fullerton.edu",
+      "degrees": ["Bachelor of Business Administration: Finance"],
+      "graduation_date": "05/01/2018"
+    }
+  ],
+  "skills": [
+    {
+      "name": "SQL, Excel, Tableau",
+      "proficiency": 80,
+      "proficiency_label": "Comfortable"
+    },
+    {
+      "name": "Python",
+      "proficiency": 70,
+      "proficiency_label": "Comfortable"
+    }
+  ],
+  "interests": [
+    {
+      "name": "My First Hobby",
+      "summary": "Short summary about my first Hobby",
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=7",
+          "caption": "Image Caption 7"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=8",
+          "caption": "Image Caption 8"
+        }
+      ]
+    },
+    {
+      "name": "My Second Hobby",
+      "summary": "Short summary about my second hobby",
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=9",
+          "caption": "Image Caption 9"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=10",
+          "caption": "Image Caption 10"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "references": [
+    {
+      "name": "Person One",
+      "relation": "Previous Boss",
+      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
+    },
+    {
+      "name": "Person Two",
+      "relation": "Previous Coworker",
+      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
+    }
+  ]
+}
